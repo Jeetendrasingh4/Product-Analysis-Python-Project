@@ -1,0 +1,1 @@
+This project uses Python to analyze product-related data and evaluate product performance. It examines product costs, sales volume, profitability, sales channels, and country-wise demand to support clear insights and better business decision-making through data analysis and visualization.
